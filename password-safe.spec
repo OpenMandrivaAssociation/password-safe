@@ -16,6 +16,7 @@ BuildRequires:	imagemagick
 BuildRequires:	libyubikey-devel
 BuildRequires:	wxgtku3.0-devel
 BuildRequires:	zip
+BuildRequires:	pkgconfig(libcurl)
 BuildRequires:	pkgconfig(libmagic)
 BuildRequires:	pkgconfig(libqrencode)
 BuildRequires:	pkgconfig(openssl)
