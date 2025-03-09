@@ -3,7 +3,7 @@
 Summary:	A cross-platform password database utility
 Name:		password-safe
 Version:	1.18.0
-Release:	1
+Release:	2
 License:	Artistic
 Group:		File tools
 URL:		https://pwsafe.org/
